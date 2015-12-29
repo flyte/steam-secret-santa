@@ -1,0 +1,8 @@
+---
+participants:
+  - name: Flyte
+    real_email: myrealemailaddress@example.com
+    secret_email: secret-santa-flyte@steamsecretsanta.com
+  - name: Martin
+    real_email: martin@gmail.com
+    secret_email: secret-santa-martin@steamsecretsanta.com
